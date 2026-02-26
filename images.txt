@@ -1,1 +1,3 @@
-registry.cn-hangzhou.aliyuncs.com/ros2/humble-ros-base-jammy
+--platform
+linux/arm64
+ros:humble-ros-base-jammy

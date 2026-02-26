@@ -1,1 +1,1 @@
-postgres:16
+ros:humble-ros-base-jammy

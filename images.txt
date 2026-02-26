@@ -1,1 +1,1 @@
-ros:humble-ros-base-jammy
+registry.cn-hangzhou.aliyuncs.com/ros2/humble-ros-base-jammy
